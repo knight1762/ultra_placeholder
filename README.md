@@ -8,10 +8,12 @@ This plugin is use to change the placeholder behavior
 
 ### HTML 
 ```
-<form>
-	<input type="text" data-placeholder="Please Enter Your Name">
-	<textarea data-placeholder="Please Enter Your Comments"></textarea>
-</form>
+<div class="content">
+	<form>
+		<input type="text" data-placeholder="Please Enter Your Name">
+		<textarea data-placeholder="Please Enter Your Comments"></textarea>
+	</form>
+</div>　
 ```
 
 ### JS file
