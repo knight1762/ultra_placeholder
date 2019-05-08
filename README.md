@@ -11,7 +11,7 @@ This plugin is use to change the placeholder behavior
 <div class="content">
 	<form>
 		<input type="text" data-placeholder="Please Enter Your Name">
-		<textarea data-placeholder="Please Enter Your Comments"></textarea>
+		<textarea placeholder="Please Enter Your Comments"></textarea>
 	</form>
 </div>　
 ```
