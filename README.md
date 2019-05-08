@@ -16,8 +16,6 @@ This plugin is use to change the placeholder behavior
 
 ### JS file
 ```
-
-	$( ".content input[type=text], .content textarea" ).ultra_placeholder();
-
+$( ".content input[type=text], .content textarea" ).ultra_placeholder();
 ```
 			
